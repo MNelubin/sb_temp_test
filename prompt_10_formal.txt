@@ -15,3 +15,5 @@ Let me denote the relevant variables and work through this systematically.
 [Formal mathematical derivation]
 
 Therefore, the answer is: <answer>NUMBER</answer>
+
+IMPORTANT: The <answer> tag must appear ONLY ONCE at the very END of your response. Do not write anything after the answer tag.

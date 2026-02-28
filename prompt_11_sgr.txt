@@ -13,3 +13,5 @@ Now, using the reasoning you wrote above, solve the problem completely and give 
 Complete solution:
 
 Final answer: <answer>NUMBER</answer>
+
+IMPORTANT: The <answer> tag must appear ONLY ONCE at the very END of your response. Do not write anything after the answer tag.

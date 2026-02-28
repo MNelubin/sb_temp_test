@@ -25,3 +25,5 @@ Step 4: Verify
 Final answer format: <answer>NUMBER</answer>
 
 The answer must be a single integer between 0 and 999 (inclusive).
+
+IMPORTANT: The <answer> tag must appear ONLY ONCE at the very END of your response. Do not write anything after the answer tag.

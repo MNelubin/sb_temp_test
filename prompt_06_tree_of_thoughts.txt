@@ -16,3 +16,5 @@ For each applicable strategy, briefly outline:
 Then choose the best strategy and solve completely.
 
 Final answer: <answer>NUMBER</answer>
+
+IMPORTANT: The <answer> tag must appear ONLY ONCE at the very END of your response. Do not write anything after the answer tag.
