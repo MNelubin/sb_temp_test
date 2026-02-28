@@ -1,0 +1,5 @@
+Stage 1 - Generate your own approach to this problem. What mathematical concepts apply? What is your solution strategy? Write this out before solving.
+
+Problem: {TASK}
+
+Your approach:

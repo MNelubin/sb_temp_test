@@ -1,0 +1,10 @@
+Stage 2 - Now solve the problem using your approach from Stage 1.
+
+Your approach was:
+{RATIONALE}
+
+Problem: {TASK}
+
+Complete solution:
+
+Final answer: <answer>NUMBER</answer>

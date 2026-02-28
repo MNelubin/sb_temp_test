@@ -1,0 +1,22 @@
+Here are examples of solving AIME-style problems:
+
+Example 1:
+Problem: Find the value of x if x^2 - 5x + 6 = 0 and x > 2.
+Solution: Factoring: (x-2)(x-3) = 0. Since x > 2, we have x = 3.
+<answer>3</answer>
+
+Example 2:
+Problem: In triangle ABC, AB = 5, BC = 12, AC = 13. Find the area.
+Solution: Check if right triangle: 5^2 + 12^2 = 25 + 144 = 169 = 13^2. Yes, it's right. Area = (5*12)/2 = 30.
+<answer>30</answer>
+
+Example 3:
+Problem: The sum of the first n positive integers is 210. Find n.
+Solution: n(n+1)/2 = 210, so n(n+1) = 420. Testing: 20*21 = 420. Therefore n = 20.
+<answer>20</answer>
+
+Now solve this problem using the same careful approach:
+
+Problem: {TASK}
+
+Show your complete solution and end with: <answer>NUMBER</answer>

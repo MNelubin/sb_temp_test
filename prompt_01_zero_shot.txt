@@ -1,0 +1,3 @@
+Solve this math problem. Give only the final numerical answer.
+
+{TASK}
