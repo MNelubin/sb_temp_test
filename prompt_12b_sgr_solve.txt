@@ -1,10 +1,9 @@
-Stage 2 - Now solve the problem using your approach from Stage 1.
+Now solve the problem using this approach:
 
-Your approach was:
 {RATIONALE}
 
 Problem: {TASK}
 
-Complete solution:
+Show your work. At the very end, write ONLY the final integer answer like this: <answer>42</answer>
 
-Final answer: <answer>NUMBER</answer>
+Do not write anything after <answer>.
