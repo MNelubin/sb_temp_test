@@ -1,0 +1,19 @@
+Solve by analogy with simpler problems.
+
+Problem: {TASK}
+
+Step 1: Simplify
+Can we solve a simpler version of this problem first?
+
+Step 2: Pattern recognition
+What mathematical patterns or structures appear?
+
+Step 3: Generalization
+How does the simple case extend to the given problem?
+
+Step 4: Solution
+Apply insights from the simpler case.
+
+Final answer: <answer>NUMBER</answer>
+
+IMPORTANT: The <answer> tag must appear ONLY ONCE at the very END of your response. Do not write anything after the answer tag.

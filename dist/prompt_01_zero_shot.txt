@@ -1,0 +1,5 @@
+Solve this math problem. Give only the final numerical answer.
+
+{TASK}
+
+IMPORTANT: The <answer> tag must appear ONLY ONCE at the very END of your response. Write the final answer as: <answer>NUMBER</answer>

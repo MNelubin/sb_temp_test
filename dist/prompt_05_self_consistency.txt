@@ -1,0 +1,15 @@
+Solve this math problem using multiple solution approaches, then verify consistency.
+
+Problem: {TASK}
+
+Approach 1: [Solve using one method]
+
+Approach 2: [Solve using a different method if possible]
+
+Verification: [Check if approaches give the same answer]
+
+If approaches differ, identify which is correct and why.
+
+Final answer: <answer>NUMBER</answer>
+
+IMPORTANT: The <answer> tag must appear ONLY ONCE at the very END of your response. Do not write anything after the answer tag.

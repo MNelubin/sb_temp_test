@@ -1,0 +1,20 @@
+You are an expert mathematician. Analyze this problem from multiple angles.
+
+Problem: {TASK}
+
+Consider these solution strategies:
+1. Algebraic approach
+2. Geometric interpretation (if applicable)
+3. Number theory approach (if applicable)
+4. Combinatorial approach (if applicable)
+
+For each applicable strategy, briefly outline:
+- How it would work
+- Potential difficulties
+- Likelihood of success
+
+Then choose the best strategy and solve completely.
+
+Final answer: <answer>NUMBER</answer>
+
+IMPORTANT: The <answer> tag must appear ONLY ONCE at the very END of your response. Do not write anything after the answer tag.

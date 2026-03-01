@@ -1,0 +1,17 @@
+You will solve this problem in two stages.
+
+Stage 1: Generate Rationale
+First, think about this problem and write out your reasoning process. Do not give a final answer yet.
+
+Problem: {TASK}
+
+Write your initial reasoning and approach here (do not solve completely yet):
+
+Stage 2: Use Your Rationale
+Now, using the reasoning you wrote above, solve the problem completely and give the final answer.
+
+Complete solution:
+
+Final answer: <answer>NUMBER</answer>
+
+IMPORTANT: The <answer> tag must appear ONLY ONCE at the very END of your response. Do not write anything after the answer tag.

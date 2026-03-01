@@ -1,0 +1,11 @@
+Now solve the problem using this approach:
+
+{RATIONALE}
+
+Problem: {TASK}
+
+Show your work. At the very end, write ONLY the final integer answer like this: <answer>42</answer>
+
+Do not write anything after <answer>.
+
+IMPORTANT: The <answer> tag must appear ONLY ONCE at the very END of your response. Do not write anything after the answer tag.

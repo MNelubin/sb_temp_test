@@ -1,0 +1,21 @@
+You are solving an AIME (American Invitational Mathematics Examination) problem. These problems require careful reasoning and precise calculations.
+
+Solve this problem using the following approach:
+
+Step 1: Parse the problem
+- What is given?
+- What is unknown?
+- What type of mathematics is involved?
+
+Step 2: Plan the solution
+- What theorems or formulas apply?
+- What is the solution strategy?
+
+Step 3: Execute
+- Show all calculations
+- Be precise with algebra
+- Check for computational errors
+
+Step 4: Verify
+- Does the answer make sense?
+- Are there any constraints to check?

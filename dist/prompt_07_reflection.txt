@@ -1,0 +1,19 @@
+Solve this problem, then critically review your solution.
+
+Problem: {TASK}
+
+Initial Solution:
+[Work through the problem]
+
+Self-Critique:
+- Did I interpret all conditions correctly?
+- Are there any calculation errors?
+- Did I miss any cases?
+- Is my answer in the required format?
+
+Revised Solution (if needed):
+[Corrections]
+
+Final answer: <answer>NUMBER</answer>
+
+IMPORTANT: The <answer> tag must appear ONLY ONCE at the very END of your response. Do not write anything after the answer tag.

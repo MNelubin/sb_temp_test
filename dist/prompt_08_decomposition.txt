@@ -1,0 +1,19 @@
+Break down this problem into smaller sub-problems.
+
+Problem: {TASK}
+
+Sub-problem 1: [First step or component]
+Solution:
+
+Sub-problem 2: [Second step or component]
+Solution:
+
+Sub-problem 3: [Continue as needed]
+Solution:
+
+Final synthesis:
+[Combine sub-problem solutions]
+
+Final answer: <answer>NUMBER</answer>
+
+IMPORTANT: The <answer> tag must appear ONLY ONCE at the very END of your response. Do not write anything after the answer tag.

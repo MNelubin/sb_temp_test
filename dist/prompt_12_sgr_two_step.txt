@@ -1,0 +1,5 @@
+Analyze this math problem. What is your solution strategy?
+
+Problem: {TASK}
+
+Describe your approach (do not solve yet):
